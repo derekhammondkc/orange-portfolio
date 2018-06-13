@@ -1,0 +1,13 @@
+# Site settings
+title: Your Real Estate, LLC
+email: info@yourcompanyhere.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: yourrealestate
+github_username:  
+facebook_username: yourrealestate
+
+# Build settings
+markdown: kramdown
